@@ -15,9 +15,9 @@ Jeg bidrager med godt humør, og tidligere samarbejdspartner og kammerater ser m
 Karakter: 12/12 🏆
 
 ### Frontend Masters 📺 
-* Complete Intro to React - Brian Holt (Microsoft)
-* Introduction to Gatsby - Jason Lengstorf (Netlify)
-* Introduction to the JAMstack - Jason Lengstorf (Netlify)
+* Complete Intro to React - Brian Holt (Microsoft)✔️
+* Introduction to Gatsby - Jason Lengstorf (Netlify)✔️
+* Introduction to the JAMstack - Jason Lengstorf (Netlify)✔️
 
 ## My skills 🛠
 
