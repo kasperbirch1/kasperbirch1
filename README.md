@@ -7,6 +7,8 @@ Jeg har snart 2 års erfaring indenfor JAMstack, og afsluttede en udannelse som 
 
 Jeg bidrager med godt humør, og tidligere samarbejdspartner og kammerater ser mig som en loyal team player der tager ejerskab i opgaven, og arbejder hårdt for at gruppen når målet. Jeg er i stand til at se tingene fra mange sider, og konkludere altid mine valg på erfaringer eller research, med det sagt er jeg også åbensindet og i stand til at ændre opfattelse. 
 
+[Kontak mig her](mailto:email@address.com?subject=test&body=type%20your%0Amessage%20here)
+
 [Kontak mig her](mailto:kasperbirch1@gmail.com?subject=Vi%20mangler%20dig%20i%20vores%20team&Body=Hej%20Kasper%0D%0AVi%20mangler%20dig)
 
 ## CV
