@@ -1,7 +1,7 @@
 **Kasper, 29 år - København 🇩🇰**
 
-# Jeg søger udfordninger inden for webudvikling 💥
-**Lidt om mig 🤓**
+# Jeg søger udfordninger inden for webudvikling 🤓
+**Lidt om mig 💥**
 
 Jeg har snart 2 års erfaring indenfor JAMstack og afsluttede en udannelse som Webudvikler på Roskilde Tekninsk skole i Oktober 2020. 
 
