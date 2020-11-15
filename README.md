@@ -1,16 +1,55 @@
-### Hi there 👋
 
-<!--
-**kasperbirch1/kasperbirch1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## CV
+### Uddannelse:
+RTS Webudvikler, 2020
+Karakter: 12/12 
 
-Here are some ideas to get you started:
+### Frontend Masters
+* Complete Intro to React - Brian Holt (Microsoft)
+* Introduction to Gatsby - Jason Lengstorf (Netlify)
+* Introduction to the JAMstack - Jason Lengstorf (Netlify)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My skills:
+
+### HTML / SEO
+* Semantic
+* Structured Data
+
+### CSS
+* BEM
+* SCSS
+* Tailwind
+* Animate.css
+
+### Javascript
+* Vanilla Javascript
+* Gulp Task Runner
+* Animejs
+
+#### Node
+* Node Packet Manager (npm)
+* Strapi (api)
+
+#### React + Gatsby
+* React Hooks
+* Reach Router
+* React Swiper
+* React Icons
+* Multi Step Forms (React Hooks Helper)
+* Styled Components (CSS-in-JS)
+* Material Ui
+* Framer Motion 
+
+### CMS
+* Contentful
+* Wordpress (Headless)
+* Strapi
+* Netlify CMS
+
+### Webservices
+* Github
+* Netlify
+* Heroku
+* Gatsby Cloud
+* Mongodb Atlas
+* Firebase
