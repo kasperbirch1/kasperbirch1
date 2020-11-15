@@ -1,4 +1,4 @@
-**Kasper, 29 år - København 🇩🇰**
+**Kasper Birch, 29 år - København 🇩🇰**
 
 # 💥 Jeg søger udfordninger inden for webudvikling
 **Lidt om mig 🤓**
