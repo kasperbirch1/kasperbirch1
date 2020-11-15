@@ -11,7 +11,7 @@ Jeg bidrager med godt humør, og tidligere samarbejdspartner og kammerater ser m
 
 ## CV
 ### Uddannelse 🎓
-RTS Webudvikler, 2020
+* RTS Webudvikler, 2020
 Karakter: 12/12 🏆
 
 ### Frontend Masters 📺 
