@@ -1,4 +1,4 @@
-# Jeg søger udfordninger inden for webudvikling 💥 
+# Jeg søger udfordninger inden for webudvikling 💥
 
 ## Lidt om mig 🤓
 **Kasper, 29 år - København 🇩🇰**
@@ -12,13 +12,10 @@ Jeg bidrager med godt humør og tidligere samarbejdspartner og kammerater ser mi
 RTS Webudvikler, 2020
 Karakter: 12/12 🏆
 
-### Frontend Masters 💻 
+### Frontend Masters 📺 
 * Complete Intro to React - Brian Holt (Microsoft)
 * Introduction to Gatsby - Jason Lengstorf (Netlify)
 * Introduction to the JAMstack - Jason Lengstorf (Netlify)
-
-### Youtuber 📺
-
 
 ## My skills 🛠
 
@@ -61,6 +58,6 @@ Karakter: 12/12 🏆
 * Github
 * Netlify
 * Heroku
-* Gatsby Cloud
+* Gatsby Cloud 
 * Mongodb Atlas
-* Firebase
+* Firebase 🔥
