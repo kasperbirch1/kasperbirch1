@@ -2,16 +2,25 @@
 
 
 ## CV
-### Uddannelse 🎓
-* RTS Webudvikler, 2020
-Karakter: 12/12 🏆
 
-### Frontend Masters 📺 
+### Work 💻
+Reload, Copenhagen  2022 - Now
+Peytz,  Copenhagen  2021 - 2022
+
+### Education 🎓
+* RTS Webudvikler, 2020
+points : 12/12 🏆
+
+## Memberships & Favorites youtuber 📺
+### SonnySangha (PapaReact)
+* Premium member
+### TraversyMedia 
+### Frontend Masters  
 * Complete Intro to React - Brian Holt (Microsoft)
 * Introduction to Gatsby - Jason Lengstorf (Netlify)
 * Introduction to the JAMstack - Jason Lengstorf (Netlify)
 
-## My skills 🛠
+## Skills 🛠
 
 ### HTML / SEO
 * Semantic
