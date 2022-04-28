@@ -4,8 +4,8 @@
 ## CV
 
 ### Work 💻
-Reload, Copenhagen  2022 - Now
-Peytz,  Copenhagen  2021 - 2022
+* Reload, Copenhagen  2022 - Now
+* Peytz,  Copenhagen  2021 - 2022
 
 ### Education 🎓
 * RTS Webudvikler, 2020
