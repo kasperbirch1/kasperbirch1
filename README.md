@@ -1,11 +1,12 @@
-**Kasper Birch, 31 år - København 🇩🇰**
+**Kasper Birch, 31 år - Copenhagen 🇩🇰**
 
 
 ## CV
 
 ### Work 💻
-* Reload, Copenhagen  2022 - Now
-* Peytz,  Copenhagen  2021 - 2022
+* Reload  - React     - Copenhagen,  2022 - Now
+* Peytz   - Wordpress - Copenhagen,  2021 - 2022
+* Youandx - React     - Copenhagen,  2021 - 2022
 
 ### Education 🎓
 * RTS Webudvikler, 2020
